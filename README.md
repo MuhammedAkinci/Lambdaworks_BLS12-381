@@ -11,7 +11,7 @@ This Rust project demonstrates generating a BLS12-381 public key from a given se
 1. Clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/aligedikli/lambdaworks_BLS12-381.git
+git clone https://github.com/MuhammedAkinci/lambdaworks_BLS12-381.git
 ```
 
 2. Navigate to the project directory:
