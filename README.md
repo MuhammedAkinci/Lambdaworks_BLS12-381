@@ -4,7 +4,7 @@ This Rust project demonstrates generating a BLS12-381 public key from a given se
 
 ## Prerequisites
 
-- Rust and Cargo (the Rust package manager). To install Rust and Cargo, follow the instructions on the [official Rust website](https://www.rust-lang.org/tools/install).
+Rust and Cargo (the Rust package manager). To install Rust and Cargo, follow the instructions on the [official Rust website](https://www.rust-lang.org/tools/install).
 
 ## Installation
 
