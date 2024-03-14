@@ -11,7 +11,7 @@ Rust and Cargo (the Rust package manager). To install Rust and Cargo, follow the
 1. Clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/MuhammedAkinci/lambdaworks_BLS12-381.git
+git clone https://github.com/MuhammedAkinci/Lambdaworks_BLS12-381.git
 ```
 
 2. Navigate to the project directory:
